@@ -135,15 +135,6 @@
 
 ---
 
-# Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yyb-21&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyb-21&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
 # Streak
 
 <p align="center">
@@ -152,7 +143,7 @@
 
 ---
 
-# 📈 Contribution Graph
+# Contribution Graph
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yyb-21&theme=github_dark" />
