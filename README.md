@@ -2,7 +2,7 @@
 <h1 align="center">Youssouf BOUDERBALA here</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=full+stack+Developer;Learning+AI+%7C+Data+science;Wish+Me+Luck+:)" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Turning+Ideas+Into+Projects;Backend+%7C+React+%7C+Node.js;Exploring+Python+%7C+AI;Always+Learning+%F0%9F%9A%80" />
 </p>
 
 ---
@@ -37,7 +37,7 @@
 
 <h1>💻 Tech Stack</h1>
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.cprogramming.com/">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -131,6 +131,10 @@
   <img src="https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white"/>
 </a>
 
+<a href="https://www.electronjs.org/">
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white"/>
+</a>
+
 </p>
 
 ---
@@ -152,6 +156,6 @@
 ---
 
 <p align="center">
-
-![](https://komarev.com/ghpvc/?username=yyb-21&color=blueviolet&style=for-the-badge)
+  <img src="https://komarev.com/ghpvc/?username=yyb-21&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
 
