@@ -2,7 +2,7 @@
 <h1 align="center">Youssouf BOUDERBALA here</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Turning+Ideas+Into+Projects;Backend+%7C+React+%7C+Node.js;Exploring+Python+%7C+AI;Always+Learning+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Turning+Ideas+Into+Projects;Backend+%7C+React+%7C+Node.js;Exploring+Python+%7C+AI;Always+Learning" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 
 ## 🌐 Socials
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/youssouf-bouderbala-9559b2364/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
