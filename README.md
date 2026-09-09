@@ -135,6 +135,14 @@
   <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white"/>
 </a>
 
+<a href="https://docs.python.org/3/library/tkinter.html">
+  <img src="https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
+
+<a href="https://streamlit.io/">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</a>
+
 </p>
 
 ---
