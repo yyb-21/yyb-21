@@ -143,6 +143,10 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </a>
 
+<a href="https://jupyter.org/">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</a>
+
 </p>
 
 ---
